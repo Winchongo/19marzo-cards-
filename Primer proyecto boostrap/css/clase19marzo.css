@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #2f2f4d;
+	color: #e8d18e;
+	font-size: 24px;
+	text-align: justify;
+	margin: 10px;
+	padding: 20px;
+}
+
+h1{
+	color: #bab195;
+	text-align: center;
+	margin-bottom: 20px;
+}
+h5{
+	color: #11091a;
+}
+
+.espacio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.card-text{
+	color: #626970;
+}
+
+.card-body{
+	background-color: #e8d18e;
+}
+
+.card-link{
+	font-size: 16px;
+	color: #11091a;
+}
+
+.list-group{
+	color: #11091a;
+}
